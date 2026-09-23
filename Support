@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Routly — Support</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         line-height: 1.6; color: #1c1c1e; max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 1.7rem; }
+  h2 { font-size: 1.15rem; margin-top: 28px; }
+  a { color: #e1541e; }
+  .q { font-weight: 600; margin-top: 20px; }
+</style>
+</head>
+<body>
+<h1>Routly — Support</h1>
+<p>Routly is a navigation app that rates how sharp the corners ahead of you are and warns you before the tight ones. If you need help, the common questions are below. For anything else, email us and we'll reply.</p>
+
+<h2>Contact</h2>
+<p>Email: <a href="mailto:REPLACE_WITH_YOUR_EMAIL">REPLACE_WITH_YOUR_EMAIL</a><br>
+We aim to reply within a few days.</p>
+
+<h2>Common questions</h2>
+
+<p class="q">Navigation isn't following me or the map won't rotate.</p>
+<p>Make sure Routly has location access set to "While Using" or "Always" in iOS Settings → Privacy &amp; Security → Location Services → Routly, and that Precise Location is on. The map follows you while driving; if you pan it away, tap the recenter button to resume.</p>
+
+<p class="q">I don't hear voice guidance or corner warnings.</p>
+<p>Check the mute button on the navigation screen, and that your phone volume is up. Voice guidance and tone defaults can also be set in the app's Settings.</p>
+
+<p class="q">What is Routly Pro?</p>
+<p>Routly Pro is an optional subscription that unlocks Assistant (corner ratings and warnings) and Acceleration Mode (timed runs and your personal records). Turn-by-turn navigation is free and never requires a subscription.</p>
+
+<p class="q">How do I manage or cancel my subscription?</p>
+<p>Subscriptions are managed by Apple: open the iOS Settings app, tap your name, then Subscriptions. You can also reach this from Routly's Settings → Manage subscription.</p>
+
+<p class="q">I have a redeem code.</p>
+<p>Open Routly → Settings → Redeem code, or use the App Store's Redeem screen.</p>
+
+<p class="q">Are the acceleration runs meant for public roads?</p>
+<p>No. Timed runs are intended for closed courses and track days. Always drive within the law and to the conditions.</p>
+
+</body>
+</html>
